@@ -1,4 +1,5 @@
-# lente - not as fast as vite
+# lente (not as fast as vite)
+A small hobby experimental dev server.
 
 ## Quick Start
 ```shell
