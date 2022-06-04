@@ -1,0 +1,8 @@
+{
+  "name": "lente",
+  "version": "0.1.0",
+  "description": "not as fast as vite, probably",
+  "keywords": [ "dev server" ],
+  "author": "Kye Lewis <kye@kyedoesdev.com>",
+  "license": "MIT"
+}
