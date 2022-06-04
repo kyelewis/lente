@@ -1,8 +1,8 @@
 {
   "name": "lente",
   "version": "0.1.0",
-  "description": "not as fast as vite, probably",
-  "keywords": [ "dev server" ],
+  "description": "A small hobby experimental dev server - monorepo",
+  "keywords": [ "lente", "server", "monorepo" ],
   "author": "Kye Lewis <kye@kyedoesdev.com>",
   "license": "MIT"
 }

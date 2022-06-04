@@ -2,5 +2,5 @@
 
 ## Quick Start
 ```shell
-npx lente --port 3001 --path my-files
+npx @kyedoesdev/lente-cli --port 3001 --path my-files
 ```
