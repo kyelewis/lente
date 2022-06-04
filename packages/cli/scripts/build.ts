@@ -7,7 +7,8 @@ import { build } from 'esbuild';
     entryPoints: [ join(__dirname, '../src/index.ts') ],
     bundle: true,
     platform: 'node',
-    outdir: join(__dirname, '../bin')
+    outdir: join(__dirname, '../bin'),
+    banner:{ js: "#!/usr/bin/env node" }
   });
 
 })();
